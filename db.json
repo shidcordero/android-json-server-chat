@@ -1,0 +1,16 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "message": "this is ",
+      "userName": "Cruz",
+      "timestamp": "2014-03-12T13:37:27+00:00",
+    },
+    {
+      "id": 2,
+      "message": "this is a long message ..................................................",
+      "userName": "May",
+      "timestamp": "2018-03-12T13:37:27+00:00",
+    }
+  ]
+}
